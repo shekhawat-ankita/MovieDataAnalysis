@@ -1,0 +1,61 @@
+movie_name,genre,release_year,length,budget,revenue,director
+The Shawshank Redemption,Drama,1994,142,25000000,28341469,Frank Darabont
+The Godfather,Crime,1972,175,6000000,245066411,Francis Ford Coppola
+Pulp Fiction,Crime,1994,154,8000000,214179088,Quentin Tarantino
+The Dark Knight,Action,2008,152,185000000,1004558444,Christopher Nolan
+Inception,Sci-Fi,2010,148,160000000,825532764,Christopher Nolan
+Fight Club,Drama,1999,139,63000000,100853753,David Fincher
+Forrest Gump,Drama,1994,142,55000000,677945399,Robert Zemeckis
+The Matrix,Sci-Fi,1999,136,63000000,463517383,"Lana Wachowski, Lilly Wachowski"
+Goodfellas,Crime,1990,146,25000000,46836394,Martin Scorsese
+Schindler's List,Drama,1993,195,22000000,96067179,Steven Spielberg
+The Avengers,Action,2012,143,220000000,1518812988,Joss Whedon
+The Lion King,Animation,1994,88,45000000,987483777,"Rob Minkoff, Roger Allers"
+Jurassic Park,Adventure,1993,127,63000000,1029000000,Steven Spielberg
+The Lord of the Rings: The Fellowship of the Ring,Fantasy,2001,178,93000000,887934537,Peter Jackson
+The Dark Knight Rises,Thriller,2012,165,250000000,1084939099,Christopher Nolan
+Interstellar,Sci-Fi,2014,169,165000000,701796508,Christopher Nolan
+The Departed,Crime,2006,151,90000000,289847354,Martin Scorsese
+Gladiator,Action,2000,155,103000000,457640427,Ridley Scott
+The Silence of the Lambs,Thriller,1991,118,19000000,272742922,Jonathan Demme
+Avatar,Sci-Fi,2009,162,237000000,2787965087,James Cameron
+Back to the Future,Adventure,1985,116,19000000,381109762,Robert Zemeckis
+The Sixth Sense,Thriller,1999,107,40000000,672806292,M. Night Shyamalan
+Gone with the Wind,Drama,1939,238,3977000,400176459,Victor Fleming
+The Wizard of Oz,Adventure,1939,102,2777000,475072773,Victor Fleming
+Spider-Man,Action,2002,121,139000000,821708551,Sam Raimi
+The Hunger Games,Adventure,2012,142,78000000,694394724,Gary Ross
+Harry Potter and the Sorcerer's Stone,Fantasy,2001,152,125000000,974755371,Chris Columbus
+The Twilight Saga: Eclipse,Fantasy,2010,124,68000000,698491347,David Slade
+Toy Story,Animation,1995,81,30000000,373554033,John Lasseter
+The Incredibles,Animation,2004,115,92000000,633019583,Brad Bird
+The Hunger Games: Catching Fire,Adventure,2013,146,130000000,865011746,Francis Lawrence
+The Da Vinci Code,Thriller,2006,149,125000000,758239851,Ron Howard
+Finding Nemo,Animation,2003,100,94000000,940335536,Andrew Stanton
+Mad Max: Fury Road,Action,2015,120,150000000,378858340,George Miller
+The Great Gatsby,Drama,2013,143,105000000,353641895,Baz Luhrmann
+The Hangover,Comedy,2009,100,35000000,467483912,Todd Phillips
+Avengers: Infinity War,Action,2018,149,321000000,2048359754,"Anthony Russo, Joe Russo"
+Guardians of the Galaxy,Action,2014,121,170000000,773328629,James Gunn
+Frozen,Animation,2013,102,150000000,1274219009,"Chris Buck, Jennifer Lee"
+The Wolf of Wall Street,Comedy,2013,180,100000000,392000694,Martin Scorsese
+Gravity,Sci-Fi,2013,91,105000000,723192705,Alfonso Cuarón
+The Revenant,Adventure,2015,156,135000000,533000000,Alejandro González Iñárritu
+La La Land,Drama,2016,128,30000000,446486302,Damien Chazelle
+Bohemian Rhapsody,Biography,2018,134,52000000,903655259,Bryan Singer
+Coco,Animation,2017,105,175000000,807082196,Lee Unkrich
+The Shape of Water,Drama,2017,123,19500000,194738579,Guillermo del Toro
+Gone Girl,Thriller,2014,149,61000000,369330363,David Fincher
+Her,Romance,2013,126,23000000,48795048,Spike Jonze
+The Social Network,Drama,2010,120,40000000,224920315,David Fincher
+Black Swan,Thriller,2010,108,13000000,329398046,Darren Aronofsky
+The King's Speech,Drama,2010,118,15000000,414211549,Tom Hooper
+Birdman,Drama,2014,119,18000000,103215094,Alejandro González Iñárritu
+Whiplash,Drama,2014,106,3300000,48928738,Damien Chazelle
+Ex Machina,Sci-Fi,2014,108,15000000,36410113,Alex Garland
+Moonrise Kingdom,Comedy,2012,94,16000000,68717337,Wes Anderson
+The Grand Budapest Hotel,Comedy,2014,100,25000000,172943424,Wes Anderson
+Inside Out,Animation,2015,95,175000000,857611174,Pete Docter
+Spotlight,Crime,2015,128,20000000,98822964,Tom McCarthy
+The Big Short,Comedy,2015,130,28000000,133346506,Adam McKay
+Parasite,Comedy,2019,132,10000000,172943424,Bong Joon Ho

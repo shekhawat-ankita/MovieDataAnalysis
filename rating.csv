@@ -1,0 +1,306 @@
+movie_name,age_group,rating
+The Shawshank Redemption,18-24,10
+The Shawshank Redemption,25-34,8
+The Shawshank Redemption,35-44,7
+The Shawshank Redemption,45-54,9
+The Shawshank Redemption,55+,10
+The Godfather,18-24,10
+The Godfather,25-34,9
+The Godfather,35-44,8
+The Godfather,45-54,9
+The Godfather,55+,8
+Pulp Fiction,18-24,9
+Pulp Fiction,25-34,6
+Pulp Fiction,35-44,8
+Pulp Fiction,45-54,7
+Pulp Fiction,55+,2
+The Dark Knight,18-24,10
+The Dark Knight,25-34,9
+The Dark Knight,35-44,10
+The Dark Knight,45-54,7
+The Dark Knight,55+,8
+Inception,18-24,9
+Inception,25-34,10
+Inception,35-44,9
+Inception,45-54,9
+Inception,55+,8
+Fight Club,18-24,8
+Fight Club,25-34,7
+Fight Club,35-44,8
+Fight Club,45-54,9
+Fight Club,55+,6
+Forrest Gump,18-24,9
+Forrest Gump,25-34,9
+Forrest Gump,35-44,10
+Forrest Gump,45-54,8
+Forrest Gump,55+,10
+The Matrix,18-24,9
+The Matrix,25-34,10
+The Matrix,35-44,8
+The Matrix,45-54,7
+The Matrix,55+,4
+Goodfellas,18-24,8
+Goodfellas,25-34,9
+Goodfellas,35-44,6
+Goodfellas,45-54,7
+Goodfellas,55+,8
+Schindler's List,18-24,6
+Schindler's List,25-34,9
+Schindler's List,35-44,5
+Schindler's List,45-54,10
+Schindler's List,55+,9
+The Avengers,18-24,10
+The Avengers,25-34,9
+The Avengers,35-44,7
+The Avengers,45-54,9
+The Avengers,55+,5
+The Lion King,18-24,8
+The Lion King,25-34,9
+The Lion King,35-44,5
+The Lion King,45-54,7
+The Lion King,55+,9
+Jurassic Park,18-24,9
+Jurassic Park,25-34,4
+Jurassic Park,35-44,10
+Jurassic Park,45-54,9
+Jurassic Park,55+,8
+The Lord of the Rings: The Fellowship of the Ring,18-24,5
+The Lord of the Rings: The Fellowship of the Ring,25-34,9
+The Lord of the Rings: The Fellowship of the Ring,35-44,7
+The Lord of the Rings: The Fellowship of the Ring,45-54,9
+The Lord of the Rings: The Fellowship of the Ring,55+,8
+The Dark Knight Rises,18-24,9
+The Dark Knight Rises,25-34,8
+The Dark Knight Rises,35-44,7
+The Dark Knight Rises,45-54,9
+The Dark Knight Rises,55+,8
+Interstellar,18-24,9
+Interstellar,25-34,8
+Interstellar,35-44,9
+Interstellar,45-54,5
+Interstellar,55+,7
+The Departed,18-24,8
+The Departed,25-34,9
+The Departed,35-44,8
+The Departed,45-54,5
+The Departed,55+,7
+Gladiator,18-24,9
+Gladiator,25-34,8
+Gladiator,35-44,7
+Gladiator,45-54,9
+Gladiator,55+,8
+The Silence of the Lambs,18-24,10
+The Silence of the Lambs,25-34,9
+The Silence of the Lambs,35-44,4
+The Silence of the Lambs,45-54,8
+The Silence of the Lambs,55+,9
+Avatar,18-24,9
+Avatar,25-34,10
+Avatar,35-44,9
+Avatar,45-54,9
+Avatar,55+,10
+Back to the Future,18-24,8
+Back to the Future,25-34,9
+Back to the Future,35-44,9
+Back to the Future,45-54,8
+Back to the Future,55+,9
+The Sixth Sense,18-24,9
+The Sixth Sense,25-34,8
+The Sixth Sense,35-44,7
+The Sixth Sense,45-54,9
+The Sixth Sense,55+,9
+Gone with the Wind,18-24,8
+Gone with the Wind,25-34,9
+Gone with the Wind,35-44,6
+Gone with the Wind,45-54,5
+Gone with the Wind,55+,9
+The Wizard of Oz,18-24,9
+The Wizard of Oz,25-34,8
+The Wizard of Oz,35-44,7
+The Wizard of Oz,45-54,9
+The Wizard of Oz,55+,10
+Spider-Man,18-24,10
+Spider-Man,25-34,9
+Spider-Man,35-44,7
+Spider-Man,45-54,8
+Spider-Man,55+,9
+The Hunger Games,18-24,8
+The Hunger Games,25-34,9
+The Hunger Games,35-44,9
+The Hunger Games,45-54,8
+The Hunger Games,55+,9
+Harry Potter and the Sorcerer's Stone,18-24,9
+Harry Potter and the Sorcerer's Stone,25-34,10
+Harry Potter and the Sorcerer's Stone,35-44,9
+Harry Potter and the Sorcerer's Stone,45-54,9
+Harry Potter and the Sorcerer's Stone,55+,10
+The Twilight Saga: Eclipse,18-24,9
+The Twilight Saga: Eclipse,25-34,8
+The Twilight Saga: Eclipse,35-44,7
+The Twilight Saga: Eclipse,45-54,8
+The Twilight Saga: Eclipse,55+,9
+Toy Story,18-24,8
+Toy Story,25-34,9
+Toy Story,35-44,9
+Toy Story,45-54,9
+Toy Story,55+,8
+The Incredibles,18-24,9
+The Incredibles,25-34,8
+The Incredibles,35-44,9
+The Incredibles,45-54,8
+The Incredibles,55+,9
+The Hunger Games: Catching Fire,18-24,10
+The Hunger Games: Catching Fire,25-34,9
+The Hunger Games: Catching Fire,35-44,9
+The Hunger Games: Catching Fire,45-54,9
+The Hunger Games: Catching Fire,55+,8
+The Da Vinci Code,18-24,9
+The Da Vinci Code,25-34,8
+The Da Vinci Code,35-44,9
+The Da Vinci Code,45-54,8
+The Da Vinci Code,55+,9
+Finding Nemo,18-24,8
+Finding Nemo,25-34,9
+Finding Nemo,35-44,9
+Finding Nemo,45-54,9
+Finding Nemo,55+,8
+Mad Max: Fury Road,18-24,9
+Mad Max: Fury Road,25-34,8
+Mad Max: Fury Road,35-44,9
+Mad Max: Fury Road,45-54,8
+Mad Max: Fury Road,55+,9
+The Great Gatsby,18-24,7
+The Great Gatsby,25-34,8
+The Great Gatsby,35-44,9
+The Great Gatsby,45-54,9
+The Great Gatsby,55+,8
+The Hangover,18-24,9
+The Hangover,25-34,8
+The Hangover,35-44,9
+The Hangover,45-54,8
+The Hangover,55+,9
+Avengers: Infinity War,18-24,10
+Avengers: Infinity War,25-34,9
+Avengers: Infinity War,35-44,9
+Avengers: Infinity War,45-54,6
+Avengers: Infinity War,55+,10
+Guardians of the Galaxy,18-24,6
+Guardians of the Galaxy,25-34,8
+Guardians of the Galaxy,35-44,7
+Guardians of the Galaxy,45-54,8
+Guardians of the Galaxy,55+,6
+Frozen,18-24,8
+Frozen,25-34,6
+Frozen,35-44,10
+Frozen,45-54,8
+Frozen,55+,6
+The Wolf of Wall Street,18-24,6
+The Wolf of Wall Street,25-34,8
+The Wolf of Wall Street,35-44,7
+The Wolf of Wall Street,45-54,6
+The Wolf of Wall Street,55+,9
+The Avengers: Age of Ultron,18-24,8
+The Avengers: Age of Ultron,25-34,7
+The Avengers: Age of Ultron,35-44,6
+The Avengers: Age of Ultron,45-54,9
+The Avengers: Age of Ultron,55+,10
+Gravity,18-24,9
+Gravity,25-34,6
+Gravity,35-44,8
+Gravity,45-54,7
+Gravity,55+,5
+The Revenant,18-24,10
+The Revenant,25-34,9
+The Revenant,35-44,8
+The Revenant,45-54,7
+The Revenant,55+,6
+La La Land,18-24,9
+La La Land,25-34,8
+La La Land,35-44,7
+La La Land,45-54,6
+La La Land,55+,10
+Bohemian Rhapsody,18-24,7
+Bohemian Rhapsody,25-34,8
+Bohemian Rhapsody,35-44,9
+Bohemian Rhapsody,45-54,10
+Bohemian Rhapsody,55+,6
+Coco,18-24,9
+Coco,25-34,7
+Coco,35-44,8
+Coco,45-54,6
+Coco,55+,9
+The Shape of Water,18-24,6
+The Shape of Water,25-34,7
+The Shape of Water,35-44,8
+The Shape of Water,45-54,9
+The Shape of Water,55+,10
+Gone Girl,18-24,9
+Gone Girl,25-34,8
+Gone Girl,35-44,7
+Gone Girl,45-54,6
+Gone Girl,55+,9
+Her,18-24,7
+Her,25-34,6
+Her,35-44,8
+Her,45-54,9
+Her,55+,7
+The Social Network,18-24,9
+The Social Network,25-34,8
+The Social Network,35-44,7
+The Social Network,45-54,6
+The Social Network,55+,9
+Black Swan,18-24,8
+Black Swan,25-34,7
+Black Swan,35-44,6
+Black Swan,45-54,9
+Black Swan,55+,8
+The King's Speech,18-24,7
+The King's Speech,25-34,9
+The King's Speech,35-44,8
+The King's Speech,45-54,7
+The King's Speech,55+,6
+Birdman,18-24,9
+Birdman,25-34,8
+Birdman,35-44,7
+Birdman,45-54,6
+Birdman,55+,9
+Whiplash,18-24,8
+Whiplash,25-34,7
+Whiplash,35-44,6
+Whiplash,45-54,9
+Whiplash,55+,8
+Ex Machina,18-24,7
+Ex Machina,25-34,6
+Ex Machina,35-44,8
+Ex Machina,45-54,9
+Ex Machina,55+,7
+Moonrise Kingdom,18-24,9
+Moonrise Kingdom,25-34,8
+Moonrise Kingdom,35-44,7
+Moonrise Kingdom,45-54,6
+Moonrise Kingdom,55+,9
+The Grand Budapest Hotel,18-24,8
+The Grand Budapest Hotel,25-34,7
+The Grand Budapest Hotel,35-44,6
+The Grand Budapest Hotel,45-54,9
+The Grand Budapest Hotel,55+,8
+Inside Out,18-24,7
+Inside Out,25-34,6
+Inside Out,35-44,8
+Inside Out,45-54,9
+Inside Out,55+,7
+Spotlight,18-24,9
+Spotlight,25-34,8
+Spotlight,35-44,7
+Spotlight,45-54,6
+Spotlight,55+,9
+The Big Short,18-24,8
+The Big Short,25-34,7
+The Big Short,35-44,6
+The Big Short,45-54,9
+The Big Short,55+,8
+Parasite,18-24,8
+Parasite,25-34,7
+Parasite,35-44,6
+Parasite,45-54,9
+Parasite,55+,8
